@@ -14,7 +14,10 @@ This extension is a "New Tab Override Page" extension, customizing the page that
 - [Install as Firefox Add-ons: Gradient New Tab](https://addons.mozilla.org/en-US/firefox/addon/gradient-new-tab/) (Firefox UUID: {4abb27fa-c2a4-46c9-9d4d-c0b90862de1f})
 - [Manage in Firefox Add-on Developer Hub](https://addons.mozilla.org/en-US/developers/)
 
-## Dev Links
+## Development
+The package file must be a ZIP of the extension's files themselves, not of the containing directory. See: https://mzl.la/2r2McKv for more on packaging.
+
+### Links
 - [MDN web docs: Browser Extensions](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions)
 - [MDN web docs: Browser Extensions > manifest.json > chrome_url_overrides](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_url_overrides)
 - [Chrome Developer: What are extensions?](https://developer.chrome.com/extensions)
