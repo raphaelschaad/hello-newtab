@@ -10,5 +10,5 @@ body {
   left: 0;
   /* With a fullpage `background`, it's better to disable potential scroll bounce on all sides, which would show the `background-color`. */
   overflow: hidden;
-  background: linear-gradient(180deg, #C5C7CD 0%, #C9C9CC 23.13%, #CDC7C6 45.83%, #C7BDBD 66.26%, #BAB0B9 76.67%, #A1A8AF 89.29%);
+  background: linear-gradient( #96969E 0%, #D7B7AA 25%, #F6C9B5 50%, #FFD4B5 75%, #FEE4B9 100%);
 }
