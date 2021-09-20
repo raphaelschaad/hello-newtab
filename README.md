@@ -2,9 +2,9 @@
 
 This extension displays a colorful gradient on the page that appears when opening a new tab.
 
-![Gradient New Tab screenshot](./builds/0.1.1/0.1.1-1280x800.png?raw=true)
+![Gradient New Tab screenshot](./builds/0.1.2/0.1.2-1600x900@2x.png?raw=true)
 
-This extension is a 'New Tab Override Page' extension, customizing the page that appears when the user creates a new tab (or even window, in the case of Chrome). New Tab pages cannot be overridden in incognito windows.
+This extension is a "New Tab Override Page" extension, customizing the page that appears when the user creates a new tab (or even window, in the case of Chrome). New Tab pages cannot be overridden in incognito windows.
 
 ## Chrome
 - [Install from Chrome Web Store: Gradient New Tab](https://chrome.google.com/webstore/detail/gradient-new-tab/hfghbamkcbmlkjjidoiindjfnodmombc) (Chrome ID: hfghbamkcbmlkjjidoiindjfnodmombc)
