@@ -1,6 +1,10 @@
 # Gradient New Tab browser extension
 
-This extension displays a colorful gradient on the page that appears when opening a new tab.
+Full description:
+
+Gradient New Tab replaces your "New Tab" with a colorful background gradient. Every time you open a new window or tab, the sunrise gradient appears. Nothing else.
+
+Enjoy a calm start to every new page! If you like it, please leave a rating and review.
 
 ![Gradient New Tab screenshot](./builds/v0.1.2/v0.1.2-1280x800.png?raw=true)
 
